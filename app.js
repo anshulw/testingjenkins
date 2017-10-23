@@ -31,8 +31,6 @@ app.use('/users', users);
 
 FOLLOWING CHANGES MADE
 
-
-
 */
 
 // catch 404 and forward to error handler

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="1.428" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2017-10-23T12:17:19" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="returns luke" timestamp="2017-10-23T12:17:19" tests="1" file="C:\Users\ANSHULW\Documents\Projects\testing\testingjenkins\test\first.js" failures="0" time="1.428">
+    <testcase name="returns luke returns luke" time="1.428" classname="returns luke">
+    </testcase>
+  </testsuite>
+</testsuites>
